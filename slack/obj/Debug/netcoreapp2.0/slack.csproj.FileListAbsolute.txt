@@ -1,0 +1,10 @@
+/home/august/Documents/vismakurs/kursvisma/slack/bin/Debug/netcoreapp2.0/slack.deps.json
+/home/august/Documents/vismakurs/kursvisma/slack/bin/Debug/netcoreapp2.0/slack.runtimeconfig.json
+/home/august/Documents/vismakurs/kursvisma/slack/bin/Debug/netcoreapp2.0/slack.runtimeconfig.dev.json
+/home/august/Documents/vismakurs/kursvisma/slack/bin/Debug/netcoreapp2.0/slack.dll
+/home/august/Documents/vismakurs/kursvisma/slack/bin/Debug/netcoreapp2.0/slack.pdb
+/home/august/Documents/vismakurs/kursvisma/slack/obj/Debug/netcoreapp2.0/slack.csproj.CoreCompileInputs.cache
+/home/august/Documents/vismakurs/kursvisma/slack/obj/Debug/netcoreapp2.0/slack.AssemblyInfoInputs.cache
+/home/august/Documents/vismakurs/kursvisma/slack/obj/Debug/netcoreapp2.0/slack.AssemblyInfo.cs
+/home/august/Documents/vismakurs/kursvisma/slack/obj/Debug/netcoreapp2.0/slack.dll
+/home/august/Documents/vismakurs/kursvisma/slack/obj/Debug/netcoreapp2.0/slack.pdb
